@@ -3,4 +3,5 @@
 
 doc
 scripts
+pdf
 
